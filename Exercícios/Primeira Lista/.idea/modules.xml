@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExFixacao1/ExFixacao1.iml" filepath="$PROJECT_DIR$/ExFixacao1/ExFixacao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExProjetos4/ExProjetos4.iml" filepath="$PROJECT_DIR$/ExProjetos4/ExProjetos4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExPropostos3/ExPropostos3.iml" filepath="$PROJECT_DIR$/ExPropostos3/ExPropostos3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExPropostos5/ExPropostos5.iml" filepath="$PROJECT_DIR$/ExPropostos5/ExPropostos5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExPropostos6/ExPropostos6.iml" filepath="$PROJECT_DIR$/ExPropostos6/ExPropostos6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expropostos2/Expropostos2.iml" filepath="$PROJECT_DIR$/Expropostos2/Expropostos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Primeira Lista.iml" filepath="$PROJECT_DIR$/.idea/Primeira Lista.iml" />
+    </modules>
+  </component>
+</project>
