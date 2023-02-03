@@ -1,342 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9b6f3319-55e8-479c-86b9-29a447ec02fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios/1Lista/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/1Lista/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/1Lista/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/1Lista/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/5Lista/ExProposto1/ExProposto1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/5Lista/ExProposto2/ExProposto2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProjeto11/ExProjeto11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProjeto8/ExProjeto8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProjeto9/ExProjeto9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProposto1/ExProposto1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProposto2/ExProposto2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProposto3/ExProposto3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProposto4/ExProposto4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProposto5/ExProposto5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExProposto7/ExProposto7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExPropostos6/ExPropostos6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/ExPropostos6/ExPropostos61.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/7lista/Exprojeto10/Exprojeto10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CURSO Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CURSO Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/.idea/Primeira Lista.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExProjetos4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExProjetos4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExProjetos4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExProjetos4/ExProjetos4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExProjetos4/out/production/ExProjetos4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExProjetos4/src/PLprojeto4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos3/ExPropostos3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos3/out/production/ExPropostos3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos3/src/PLprojeto3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos5/ExPropostos5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos5/out/production/ExPropostos5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos5/src/PLprojeto5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos6/ExPropostos6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos6/out/production/ExPropostos6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/ExPropostos6/src/PLprojeto6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos01/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos01/Expropostos01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos01/out/production/Expropostos01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos01/src/PLprojeto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos2/Expropostos2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos2/out/production/Expropostos2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/Expropostos2/src/PLprojeto2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Primeira Lista/exercicios1-estrutura-sequencial.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/.idea/Quarta Lista.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/02-exercicios4-estrutura-for.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/.idea/ExPropostos1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/QaLprojeto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/out/production/ExPropostos1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/out/production/ExPropostos1/.idea/ExPropostos1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/out/production/ExPropostos1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/out/production/ExPropostos1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos1/out/production/ExPropostos1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/.idea/ExPropostos2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/QaLprojeto2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/out/production/ExPropostos2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/out/production/ExPropostos2/.idea/ExPropostos2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/out/production/ExPropostos2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/out/production/ExPropostos2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos2/out/production/ExPropostos2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/.idea/ExPropostos3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/QaLprojeto3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/out/production/ExPropostos3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/out/production/ExPropostos3/.idea/ExPropostos3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/out/production/ExPropostos3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/out/production/ExPropostos3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos3/out/production/ExPropostos3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/.idea/ExPropostos4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/QaLprojeto4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/out/production/ExPropostos4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/out/production/ExPropostos4/.idea/ExPropostos4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/out/production/ExPropostos4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/out/production/ExPropostos4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos4/out/production/ExPropostos4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/.idea/ExPropostos5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/QaLprojeto5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/out/production/ExPropostos5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/out/production/ExPropostos5/.idea/ExPropostos5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/out/production/ExPropostos5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/out/production/ExPropostos5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos5/out/production/ExPropostos5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/.idea/ExPropostos6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/QaLprojeto6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/out/production/ExPropostos6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/out/production/ExPropostos6/.idea/ExPropostos6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/out/production/ExPropostos6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/out/production/ExPropostos6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos6/out/production/ExPropostos6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/.idea/ExPropostos7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/QaLprojeto7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/out/production/ExPropostos7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/out/production/ExPropostos7/.idea/ExPropostos7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/out/production/ExPropostos7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/out/production/ExPropostos7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/ExPropostos7/out/production/ExPropostos7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quarta Lista/Quarta Lista.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/03-correcao-exercicios-fixacao.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/ExProposto1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/ExProposto11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/out/production/ExProposto1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/out/production/ExProposto1/Retangulo/Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/src/QiLprojeto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto1/src/Retangulo/Retangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/ExProposto2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/ExProposto21.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/out/production/ExProposto2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/out/production/ExProposto2/entidades/Empregado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/src/QiLprojeto2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExProposto2/src/entidades/Empregado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/ExPropostos3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/ExPropostos31.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/out/production/ExPropostos3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/out/production/ExPropostos3/entities/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/src/QiLprojeto3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/ExPropostos3/src/entities/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/ExFixacaoFinal.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/out/production/untitled/CurrencyConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/out/production/untitled/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/src/CurrencyConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/src/Untitled0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Quinta Lista/untitled/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/.idea/Segunda Lista.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/02-exercicios2-estrutura-condicional.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.1/ExPropostos1.1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.1/out/production/ExPropostos1.1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.1/src/SLprojeto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.2/ExPropostos1.2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.2/out/production/ExPropostos1.2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.2/src/SLprojeto2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.3/ExPropostos1.3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.3/out/production/ExPropostos1.3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.3/src/SLprojeto3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.5/ExPropostos1.5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.5/out/production/ExPropostos1.5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.5/src/SLprojeto5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.6/ExPropostos1.6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.6/out/production/ExPropostos1.6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.6/src/SLprojeto6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.7/ExPropostos1.7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.7/out/production/ExPropostos1.7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.7/src/SLprojeto7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.8/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.8/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.8/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.8/ExPropostos1.8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.8/out/production/ExPropostos1.8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/ExPropostos1.8/src/SLprojeto8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/exPropostos1.4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/exPropostos1.4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/exPropostos1.4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/exPropostos1.4/exPropostos1.4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/exPropostos1.4/out/production/exPropostos1.4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Segunda Lista/exPropostos1.4/src/SLprojeto4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/05-exercicios-de-fixacao-vetores.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto11/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto11/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto11/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto11/ExProjeto11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto11/out/production/ExProjeto11/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto11/src/StLprojeto11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto8/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto8/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto8/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto8/ExProjeto8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto8/out/production/ExProjeto8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto8/src/StLprojeto8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto9/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto9/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto9/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto9/ExProjeto9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto9/out/production/ExProjeto9/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProjeto9/src/StLprojeto9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/ExProposto1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/out/production/ExProposto1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/out/production/ExProposto1/entities/Numeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/src/StLprojeto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto1/src/entities/Numeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/ExProposto2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/out/production/ExProposto2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/out/production/ExProposto2/numeros/Numero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/src/StLprojeto2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto2/src/numeros/Numero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/ExProposto3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/out/production/ExProposto3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/out/production/ExProposto3/entities/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/src/StLprojeto3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto3/src/entities/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto4/ExProposto4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto4/out/production/ExProposto4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto4/src/StLprojeto4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto5/ExProposto5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto5/out/production/ExProposto5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto5/src/StLprojeto5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto7/ExProposto7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto7/out/production/ExProposto7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExProposto7/src/StLprojeto7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExPropostos6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExPropostos6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExPropostos6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExPropostos6/ExPropostos6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExPropostos6/ExPropostos61.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExPropostos6/out/production/ExPropostos6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/ExPropostos6/src/StLprojeto6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/Exprojeto10/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/Exprojeto10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/Exprojeto10/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/Exprojeto10/Exprojeto10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/Exprojeto10/out/production/Exprojeto10/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Setima lista/Exprojeto10/src/StLprojeto10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/Sexta Lista.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/out/production/untitled/Application/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/out/production/untitled/Entities/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/src/Application/SetLprojeto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/src/Entities/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Sexta Lista/untitled/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/.idea/Terceira Lista.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/02-exercicios3-estrutura-while.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.1/ExPropostos2.1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.1/out/production/ExPropostos2.1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.1/src/Tprojeto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.2/ExPropostos2.2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.2/out/production/ExPropostos2.2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.2/src/Tprojeto2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.3/ExPropostos2.3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.3/out/production/ExPropostos2.3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Terceira Lista/ExPropostos2.3/src/Tprojeto3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,17 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/GustavoHenriqueDosSa/Desktop/CURSO Java&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/GustavoHenriqueDosSa/Desktop/CURSO Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\GustavoHenriqueDosSa\Desktop\CURSO Java\Exercícios\Composicao\src\application" />
@@ -395,6 +70,7 @@
       <workItem from="1671196212967" duration="100000" />
       <workItem from="1671196523155" duration="826000" />
       <workItem from="1671216156594" duration="50000" />
+      <workItem from="1674760217496" duration="880000" />
     </task>
     <servers />
   </component>
